@@ -32,3 +32,4 @@ Import collection:
 - `postman/course-crud.postman_collection.json`
 
 The collection includes valid and invalid test cases for all endpoints.
+##
