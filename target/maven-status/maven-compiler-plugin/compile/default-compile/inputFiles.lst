@@ -1,8 +1,8 @@
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\controller\CourseController.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\CourseApiApplication.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\dto\ApiResponse.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\exception\CourseNotFoundException.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\exception\GlobalExceptionHandler.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\model\Course.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\service\CourseService.java
-C:\Users\sivag\Desktop\FSD\S6_90093\SKILL - 7\src\main\java\com\university\courseapi\service\CourseServiceImpl.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/CourseApiApplication.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/controller/CourseController.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/dto/ApiResponse.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/exception/CourseNotFoundException.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/exception/GlobalExceptionHandler.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/model/Course.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/service/CourseService.java
+/home/runner/work/Skill-7/Skill-7/src/main/java/com/university/courseapi/service/CourseServiceImpl.java
